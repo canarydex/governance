@@ -1,0 +1,12 @@
+artifacts/
+artifacts_old/
+cache/
+contracts/BurnCNR.sol
+contracts/CNR_OLD.sol
+contracts/prediction.sol
+node_modules/
+build/
+scripts/
+flatten/
+hardhat.config.js
+
