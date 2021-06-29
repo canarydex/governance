@@ -4,6 +4,7 @@ cache/
 contracts/BurnCNR.sol
 contracts/CNR_OLD.sol
 contracts/prediction.sol
+contracts/PRDC.sol
 node_modules/
 build/
 scripts/
